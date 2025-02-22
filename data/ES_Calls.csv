@@ -1,0 +1,300 @@
+"WK_ID","YouGov_call","Winner21","YG_Too_Close_to_Call","WK_Name","election_de_call","WK_Prognose_Call","WK_Prognose_Too_Close_to_Call"
+1,"Grüne","Grüne",TRUE,"Flensburg - Schleswig","CDU/CSU","CDU/CSU",FALSE
+2,"CDU/CSU","CDU/CSU",FALSE,"Nordfriesland - Dithmarschen Nord","CDU/CSU","CDU/CSU",FALSE
+3,"CDU/CSU","CDU/CSU",FALSE,"Steinburg - Dithmarschen Süd","CDU/CSU","CDU/CSU",FALSE
+4,"CDU/CSU","SPD",FALSE,"Rendsburg-Eckernförde","CDU/CSU","CDU/CSU",FALSE
+5,"Grüne","SPD",TRUE,"Kiel","Grüne","Grüne",TRUE
+6,"CDU/CSU","SPD",FALSE,"Plön - Neumünster","CDU/CSU","CDU/CSU",FALSE
+7,"CDU/CSU","SPD",FALSE,"Pinneberg","CDU/CSU","CDU/CSU",FALSE
+8,"CDU/CSU","SPD",FALSE,"Segeberg - Stormarn-Mitte","CDU/CSU","CDU/CSU",FALSE
+9,"CDU/CSU","SPD",TRUE,"Ostholstein - Stormarn-Nord","CDU/CSU","CDU/CSU",FALSE
+10,"CDU/CSU","SPD",FALSE,"Herzogtum Lauenburg - Stormarn-Süd","CDU/CSU","CDU/CSU",FALSE
+11,"SPD","SPD",TRUE,"Lübeck","SPD","SPD",TRUE
+12,"AfD","SPD",FALSE,"Schwerin - Ludwigslust-Parchim I - Nordwestmecklenburg I","AfD","AfD",FALSE
+13,"AfD","SPD",FALSE,"Ludwigslust-Parchim II - Nordwestmecklenburg II - Landkreis Rostock I","AfD","AfD",FALSE
+14,"AfD","SPD",TRUE,"Rostock - Landkreis Rostock II","AfD","Linke",FALSE
+15,"AfD","SPD",FALSE,"Vorpommern-Rügen - Vorpommern-Greifswald I","AfD","AfD",FALSE
+16,"AfD","SPD",FALSE,"Mecklenburgische Seenplatte I - Vorpommern-Greifswald II","AfD","AfD",FALSE
+17,"AfD","SPD",FALSE,"Mecklenburgische Seenplatte II - Landkreis Rostock III","AfD","AfD",FALSE
+18,"SPD","SPD",FALSE,"Hamburg-Mitte","SPD","SPD",FALSE
+19,"SPD","Grüne",TRUE,"Hamburg-Altona","Grüne","Grüne",FALSE
+20,"SPD","Grüne",FALSE,"Hamburg-Eimsbüttel","Grüne","Grüne",TRUE
+21,"SPD","SPD",TRUE,"Hamburg-Nord","CDU/CSU","CDU/CSU",FALSE
+22,"SPD","SPD",FALSE,"Hamburg-Wandsbek","SPD","SPD",FALSE
+23,"SPD","SPD",FALSE,"Hamburg-Bergedorf - Harburg","SPD","SPD",FALSE
+24,"SPD","SPD",FALSE,"Aurich - Emden","SPD","SPD",FALSE
+25,"CDU/CSU","CDU/CSU",FALSE,"Unterems","CDU/CSU","CDU/CSU",FALSE
+26,"SPD","SPD",FALSE,"Friesland - Wilhelmshaven - Wittmund","SPD","SPD",TRUE
+27,"SPD","SPD",FALSE,"Oldenburg - Ammerland","SPD","SPD",TRUE
+28,"CDU/CSU","SPD",TRUE,"Delmenhorst - Wesermarsch - Oldenburg-Land","CDU/CSU","CDU/CSU",TRUE
+29,"CDU/CSU","SPD",FALSE,"Cuxhaven - Stade II","CDU/CSU","CDU/CSU",FALSE
+30,"CDU/CSU","CDU/CSU",FALSE,"Stade I - Rotenburg II","CDU/CSU","CDU/CSU",FALSE
+31,"CDU/CSU","CDU/CSU",FALSE,"Mittelems","CDU/CSU","CDU/CSU",FALSE
+32,"CDU/CSU","CDU/CSU",FALSE,"Cloppenburg - Vechta","CDU/CSU","CDU/CSU",FALSE
+33,"CDU/CSU","CDU/CSU",FALSE,"Diepholz - Nienburg I","CDU/CSU","CDU/CSU",FALSE
+34,"CDU/CSU","CDU/CSU",FALSE,"Osterholz - Verden","CDU/CSU","CDU/CSU",FALSE
+35,"SPD","SPD",TRUE,"Rotenburg I - Heidekreis","SPD","SPD",FALSE
+36,"CDU/CSU","SPD",FALSE,"Harburg","CDU/CSU","CDU/CSU",FALSE
+37,"CDU/CSU","SPD",TRUE,"Lüchow-Dannenberg - Lüneburg","CDU/CSU","CDU/CSU",FALSE
+38,"CDU/CSU","CDU/CSU",FALSE,"Osnabrück-Land","CDU/CSU","CDU/CSU",FALSE
+39,"CDU/CSU","SPD",FALSE,"Stadt Osnabrück","CDU/CSU","CDU/CSU",FALSE
+40,"CDU/CSU","SPD",TRUE,"Nienburg II - Schaumburg","CDU/CSU","CDU/CSU",FALSE
+41,"SPD","SPD",FALSE,"Stadt Hannover I","SPD","SPD",TRUE
+42,"SPD","SPD",FALSE,"Stadt Hannover II","SPD","SPD",TRUE
+43,"CDU/CSU","SPD",TRUE,"Hannover-Land I","CDU/CSU","CDU/CSU",FALSE
+44,"CDU/CSU","CDU/CSU",FALSE,"Celle - Uelzen","CDU/CSU","CDU/CSU",FALSE
+45,"SPD","SPD",TRUE,"Gifhorn - Peine","SPD","SPD",TRUE
+46,"SPD","SPD",TRUE,"Hameln-Pyrmont - Holzminden","SPD","SPD",TRUE
+47,"SPD","SPD",TRUE,"Hannover-Land II","SPD","CDU/CSU",TRUE
+48,"SPD","SPD",TRUE,"Hildesheim","CDU/CSU","CDU/CSU",TRUE
+49,"SPD","SPD",TRUE,"Salzgitter - Wolfenbüttel","CDU/CSU","CDU/CSU",FALSE
+50,"SPD","SPD",TRUE,"Braunschweig","SPD","CDU/CSU",TRUE
+51,"SPD","SPD",FALSE,"Helmstedt - Wolfsburg","CDU/CSU","CDU/CSU",TRUE
+52,"CDU/CSU","SPD",FALSE,"Goslar - Northeim - Göttingen II","CDU/CSU","CDU/CSU",FALSE
+53,"CDU/CSU","SPD",TRUE,"Göttingen I","CDU/CSU","CDU/CSU",FALSE
+54,"CDU/CSU","SPD",TRUE,"Bremen I","CDU/CSU","CDU/CSU",TRUE
+55,"SPD","SPD",TRUE,"Bremen II - Bremerhaven","SPD","SPD",TRUE
+56,"AfD","SPD",FALSE,"Prignitz - Ostprignitz-Ruppin - Havelland I","AfD","AfD",FALSE
+57,"AfD","SPD",FALSE,"Uckermark - Barnim I","AfD","AfD",FALSE
+58,"AfD","SPD",TRUE,"Oberhavel - Havelland II","AfD","AfD",FALSE
+59,"AfD","SPD",TRUE,"Märkisch-Oderland - Barnim II","AfD","AfD",FALSE
+60,"AfD","SPD",FALSE,"Brandenburg an der Havel - Potsdam-Mittelmark I - Havelland III - Teltow-Fläming I","AfD","AfD",FALSE
+61,"SPD","SPD",TRUE,"Potsdam - Potsdam-Mittelmark II - Teltow-Fläming II","SPD","SPD",TRUE
+62,"AfD","SPD",FALSE,"Dahme-Spreewald - Teltow-Fläming III","AfD","AfD",FALSE
+63,"AfD","SPD",FALSE,"Frankfurt (Oder) - Oder-Spree","AfD","AfD",FALSE
+64,"AfD","SPD",FALSE,"Cottbus - Spree-Neiße","AfD","AfD",FALSE
+65,"AfD","SPD",FALSE,"Elbe-Elster - Oberspreewald-Lausitz","AfD","AfD",FALSE
+66,"AfD","SPD",FALSE,"Altmark - Jerichower Land","AfD","AfD",FALSE
+67,"AfD","CDU/CSU",FALSE,"Börde - Salzlandkreis","AfD","AfD",FALSE
+68,"AfD","CDU/CSU",FALSE,"Harz","AfD","AfD",FALSE
+69,"AfD","SPD",TRUE,"Magdeburg","AfD","AfD",TRUE
+70,"AfD","CDU/CSU",FALSE,"Anhalt - Dessau - Wittenberg","AfD","AfD",FALSE
+71,"AfD","SPD",FALSE,"Halle","AfD","AfD",FALSE
+72,"AfD","CDU/CSU",FALSE,"Burgenland - Saalekreis","AfD","AfD",FALSE
+73,"AfD","CDU/CSU",FALSE,"Mansfeld","AfD","AfD",FALSE
+74,"SPD","Grüne",TRUE,"Berlin-Mitte","Grüne","Linke",TRUE
+75,"AfD","Grüne",FALSE,"Berlin-Pankow","Linke","Linke",FALSE
+76,"CDU/CSU","CDU/CSU",TRUE,"Berlin-Reinickendorf","CDU/CSU","CDU/CSU",FALSE
+77,"CDU/CSU","SPD",TRUE,"Berlin-Spandau - Charlottenburg Nord","CDU/CSU","CDU/CSU",FALSE
+78,"CDU/CSU","CDU/CSU",FALSE,"Berlin-Steglitz-Zehlendorf","CDU/CSU","CDU/CSU",FALSE
+79,"CDU/CSU","SPD",FALSE,"Berlin-Charlottenburg-Wilmersdorf","CDU/CSU","CDU/CSU",FALSE
+80,"CDU/CSU","SPD",TRUE,"Berlin-Tempelhof-Schöneberg","CDU/CSU","CDU/CSU",FALSE
+81,"SPD","SPD",TRUE,"Berlin-Neukölln","CDU/CSU","Linke",TRUE
+82,"Grüne","Grüne",TRUE,"Berlin-Friedrichshain-Kreuzberg - Prenzlauer Berg Ost","Grüne","Linke",TRUE
+83,"Die Linke","Die Linke",FALSE,"Berlin-Treptow-Köpenick","Linke","Linke",FALSE
+84,"AfD","CDU/CSU",TRUE,"Berlin-Marzahn-Hellersdorf","CDU/CSU","CDU/CSU",FALSE
+85,"Die Linke","Die Linke",TRUE,"Berlin-Lichtenberg","Linke","Linke",FALSE
+86,"CDU/CSU","Grüne",FALSE,"Aachen I","CDU/CSU","CDU/CSU",TRUE
+87,"CDU/CSU","SPD",FALSE,"Aachen II","CDU/CSU","CDU/CSU",FALSE
+88,"CDU/CSU","CDU/CSU",FALSE,"Heinsberg","CDU/CSU","CDU/CSU",FALSE
+89,"CDU/CSU","CDU/CSU",FALSE,"Düren","CDU/CSU","CDU/CSU",FALSE
+90,"CDU/CSU","CDU/CSU",FALSE,"Rhein-Erft-Kreis I","CDU/CSU","CDU/CSU",FALSE
+91,"CDU/CSU","CDU/CSU",FALSE,"Euskirchen - Rhein-Erft-Kreis II","CDU/CSU","CDU/CSU",FALSE
+92,"SPD","SPD",TRUE,"Köln I","CDU/CSU","CDU/CSU",FALSE
+93,"Grüne","Grüne",TRUE,"Köln II","Grüne","Grüne",TRUE
+94,"Grüne","SPD",TRUE,"Köln III","Grüne","Grüne",TRUE
+95,"CDU/CSU","Grüne",FALSE,"Bonn","CDU/CSU","CDU/CSU",FALSE
+96,"CDU/CSU","CDU/CSU",FALSE,"Rhein-Sieg-Kreis I","CDU/CSU","CDU/CSU",FALSE
+97,"CDU/CSU","CDU/CSU",FALSE,"Rhein-Sieg-Kreis II","CDU/CSU","CDU/CSU",FALSE
+98,"CDU/CSU","CDU/CSU",FALSE,"Oberbergischer Kreis","CDU/CSU","CDU/CSU",FALSE
+99,"CDU/CSU","CDU/CSU",FALSE,"Rheinisch-Bergischer Kreis","CDU/CSU","CDU/CSU",FALSE
+100,"SPD","SPD",FALSE,"Leverkusen - Köln IV","SPD","SPD",FALSE
+101,"SPD","SPD",TRUE,"Wuppertal I","SPD","CDU/CSU",FALSE
+102,"SPD","SPD",TRUE,"Solingen - Remscheid - Wuppertal II","CDU/CSU","CDU/CSU",FALSE
+103,"CDU/CSU","CDU/CSU",FALSE,"Mettmann I","CDU/CSU","CDU/CSU",FALSE
+104,"CDU/CSU","CDU/CSU",FALSE,"Mettmann II","CDU/CSU","CDU/CSU",FALSE
+105,"CDU/CSU","CDU/CSU",FALSE,"Düsseldorf I","CDU/CSU","CDU/CSU",FALSE
+106,"CDU/CSU","SPD",TRUE,"Düsseldorf II","CDU/CSU","CDU/CSU",FALSE
+107,"CDU/CSU","CDU/CSU",FALSE,"Neuss I","CDU/CSU","CDU/CSU",FALSE
+108,"CDU/CSU","CDU/CSU",FALSE,"Mönchengladbach","CDU/CSU","CDU/CSU",FALSE
+109,"CDU/CSU","CDU/CSU",FALSE,"Krefeld I - Neuss II","CDU/CSU","CDU/CSU",FALSE
+110,"CDU/CSU","CDU/CSU",FALSE,"Viersen","CDU/CSU","CDU/CSU",FALSE
+111,"CDU/CSU","CDU/CSU",FALSE,"Kleve","CDU/CSU","CDU/CSU",FALSE
+112,"CDU/CSU","SPD",FALSE,"Wesel I","CDU/CSU","CDU/CSU",FALSE
+113,"CDU/CSU","SPD",FALSE,"Krefeld II - Wesel II","CDU/CSU","CDU/CSU",FALSE
+114,"SPD","SPD",FALSE,"Duisburg I","SPD","SPD",TRUE
+115,"SPD","SPD",TRUE,"Duisburg II","SPD","SPD",TRUE
+116,"SPD","SPD",TRUE,"Oberhausen - Wesel III","SPD","CDU/CSU",TRUE
+117,"SPD","SPD",TRUE,"Mülheim - Essen I","CDU/CSU","CDU/CSU",TRUE
+118,"SPD","SPD",TRUE,"Essen II","SPD","CDU/CSU",FALSE
+119,"CDU/CSU","CDU/CSU",FALSE,"Essen III","CDU/CSU","CDU/CSU",FALSE
+120,"SPD","SPD",TRUE,"Recklinghausen I","SPD","CDU/CSU",FALSE
+121,"CDU/CSU","SPD",TRUE,"Recklinghausen II","CDU/CSU","CDU/CSU",FALSE
+122,"SPD","SPD",TRUE,"Gelsenkirchen","SPD","SPD",TRUE
+123,"CDU/CSU","CDU/CSU",FALSE,"Steinfurt I - Borken I","CDU/CSU","CDU/CSU",FALSE
+124,"CDU/CSU","SPD",TRUE,"Bottrop - Recklinghausen III","CDU/CSU","CDU/CSU",FALSE
+125,"CDU/CSU","CDU/CSU",FALSE,"Borken II","CDU/CSU","CDU/CSU",FALSE
+126,"CDU/CSU","CDU/CSU",FALSE,"Coesfeld - Steinfurt II","CDU/CSU","CDU/CSU",FALSE
+127,"CDU/CSU","CDU/CSU",FALSE,"Steinfurt III","CDU/CSU","CDU/CSU",FALSE
+128,"CDU/CSU","Grüne",TRUE,"Münster","CDU/CSU","CDU/CSU",FALSE
+129,"CDU/CSU","CDU/CSU",FALSE,"Warendorf","CDU/CSU","CDU/CSU",FALSE
+130,"CDU/CSU","CDU/CSU",FALSE,"Gütersloh I","CDU/CSU","CDU/CSU",FALSE
+131,"CDU/CSU","SPD",TRUE,"Bielefeld - Gütersloh II","CDU/CSU","CDU/CSU",FALSE
+132,"CDU/CSU","SPD",TRUE,"Herford - Minden-Lübbecke II","CDU/CSU","CDU/CSU",FALSE
+133,"CDU/CSU","SPD",TRUE,"Minden-Lübbecke I","CDU/CSU","CDU/CSU",FALSE
+134,"CDU/CSU","SPD",FALSE,"Lippe I","CDU/CSU","CDU/CSU",FALSE
+135,"CDU/CSU","CDU/CSU",FALSE,"Höxter - Gütersloh III - Lippe II","CDU/CSU","CDU/CSU",FALSE
+136,"CDU/CSU","CDU/CSU",FALSE,"Paderborn","CDU/CSU","CDU/CSU",FALSE
+137,"CDU/CSU","SPD",FALSE,"Hagen - Ennepe-Ruhr-Kreis I","CDU/CSU","CDU/CSU",FALSE
+138,"CDU/CSU","SPD",TRUE,"Ennepe-Ruhr-Kreis II","CDU/CSU","CDU/CSU",TRUE
+139,"SPD","SPD",FALSE,"Bochum I","SPD","CDU/CSU",TRUE
+140,"SPD","SPD",FALSE,"Herne - Bochum II","SPD","SPD",TRUE
+141,"CDU/CSU","SPD",TRUE,"Dortmund I","SPD","SPD",TRUE
+142,"SPD","SPD",FALSE,"Dortmund II","SPD","SPD",TRUE
+143,"SPD","SPD",TRUE,"Unna I","SPD","CDU/CSU",TRUE
+144,"SPD","SPD",TRUE,"Hamm - Unna II","SPD","CDU/CSU",FALSE
+145,"CDU/CSU","CDU/CSU",FALSE,"Soest","CDU/CSU","CDU/CSU",FALSE
+146,"CDU/CSU","CDU/CSU",FALSE,"Hochsauerlandkreis","CDU/CSU","CDU/CSU",FALSE
+147,"CDU/CSU","CDU/CSU",FALSE,"Siegen-Wittgenstein","CDU/CSU","CDU/CSU",FALSE
+148,"CDU/CSU","CDU/CSU",FALSE,"Olpe - Märkischer Kreis I","CDU/CSU","CDU/CSU",FALSE
+149,"CDU/CSU","CDU/CSU",FALSE,"Märkischer Kreis II","CDU/CSU","CDU/CSU",FALSE
+150,"AfD","AfD",FALSE,"Nordsachsen","AfD","AfD",FALSE
+151,"AfD","CDU/CSU",FALSE,"Leipzig I","AfD","AfD",TRUE
+152,"Die Linke","Die Linke",TRUE,"Leipzig II","Linke","Linke",FALSE
+153,"AfD","AfD",TRUE,"Leipzig-Land","AfD","AfD",FALSE
+154,"AfD","AfD",FALSE,"Meißen","AfD","AfD",FALSE
+155,"AfD","AfD",FALSE,"Bautzen I","AfD","AfD",FALSE
+156,"AfD","AfD",FALSE,"Görlitz","AfD","AfD",FALSE
+157,"AfD","AfD",FALSE,"Sächsische Schweiz-Osterzgebirge","AfD","AfD",FALSE
+158,"AfD","CDU/CSU",FALSE,"Dresden I","AfD","AfD",TRUE
+159,"AfD","CDU/CSU",FALSE,"Dresden II - Bautzen II","AfD","AfD",FALSE
+160,"AfD","AfD",FALSE,"Mittelsachsen","AfD","AfD",FALSE
+161,"AfD","SPD",FALSE,"Chemnitz","AfD","AfD",FALSE
+162,"AfD","AfD",FALSE,"Chemnitzer Umland - Erzgebirgskreis II","AfD","AfD",FALSE
+163,"AfD","AfD",FALSE,"Erzgebirgskreis I","AfD","AfD",FALSE
+164,"AfD","AfD",FALSE,"Zwickau","AfD","AfD",FALSE
+165,"AfD","CDU/CSU",FALSE,"Vogtlandkreis","AfD","AfD",FALSE
+166,"CDU/CSU","SPD",TRUE,"Waldeck","CDU/CSU","CDU/CSU",FALSE
+167,"CDU/CSU","SPD",TRUE,"Kassel","SPD","CDU/CSU",FALSE
+168,"SPD","SPD",TRUE,"Werra-Meißner - Hersfeld-Rotenburg","SPD","CDU/CSU",FALSE
+169,"SPD","SPD",TRUE,"Schwalm-Eder","SPD","CDU/CSU",FALSE
+170,"CDU/CSU","SPD",TRUE,"Marburg","CDU/CSU","CDU/CSU",FALSE
+171,"CDU/CSU","SPD",FALSE,"Lahn-Dill","CDU/CSU","CDU/CSU",FALSE
+172,"CDU/CSU","SPD",FALSE,"Gießen","CDU/CSU","CDU/CSU",FALSE
+173,"CDU/CSU","CDU/CSU",FALSE,"Fulda","CDU/CSU","CDU/CSU",FALSE
+174,"CDU/CSU","SPD",FALSE,"Main-Kinzig - Wetterau II - Schotten","CDU/CSU","CDU/CSU",FALSE
+175,"CDU/CSU","CDU/CSU",FALSE,"Hochtaunus","CDU/CSU","CDU/CSU",FALSE
+176,"CDU/CSU","SPD",FALSE,"Wetterau I","CDU/CSU","CDU/CSU",FALSE
+177,"CDU/CSU","CDU/CSU",FALSE,"Rheingau-Taunus - Limburg","CDU/CSU","CDU/CSU",FALSE
+178,"CDU/CSU","CDU/CSU",FALSE,"Wiesbaden","CDU/CSU","CDU/CSU",FALSE
+179,"CDU/CSU","SPD",FALSE,"Hanau","CDU/CSU","CDU/CSU",FALSE
+180,"CDU/CSU","CDU/CSU",FALSE,"Main-Taunus","CDU/CSU","CDU/CSU",FALSE
+181,"CDU/CSU","SPD",TRUE,"Frankfurt am Main I","CDU/CSU","CDU/CSU",FALSE
+182,"CDU/CSU","Grüne",TRUE,"Frankfurt am Main II","Grüne","CDU/CSU",TRUE
+183,"CDU/CSU","SPD",FALSE,"Groß-Gerau","CDU/CSU","CDU/CSU",FALSE
+184,"CDU/CSU","CDU/CSU",FALSE,"Offenbach","CDU/CSU","CDU/CSU",FALSE
+185,"CDU/CSU","SPD",FALSE,"Darmstadt","CDU/CSU","CDU/CSU",FALSE
+186,"CDU/CSU","SPD",FALSE,"Odenwald","CDU/CSU","CDU/CSU",FALSE
+187,"CDU/CSU","CDU/CSU",FALSE,"Bergstraße","CDU/CSU","CDU/CSU",FALSE
+188,"AfD","CDU/CSU",FALSE,"Eichsfeld - Nordhausen - Kyffhäuserkreis","AfD","AfD",FALSE
+189,"AfD","AfD",TRUE,"Eisenach - Wartburgkreis - Unstrut-Hainich-Kreis","AfD","AfD",FALSE
+190,"AfD","SPD",FALSE,"Jena - Sömmerda - Weimarer Land I","AfD","AfD",FALSE
+191,"AfD","AfD",FALSE,"Gotha - Ilm-Kreis","AfD","AfD",FALSE
+192,"Die Linke","SPD",FALSE,"Erfurt - Weimar - Weimarer Land II","Linke","AfD",TRUE
+193,"AfD","AfD",FALSE,"Gera - Greiz - Altenburger Land","AfD","AfD",FALSE
+194,"AfD","AfD",FALSE,"Saalfeld-Rudolstadt - Saale-Holzland-Kreis - Saale-Orla-Kreis","AfD","AfD",FALSE
+195,"AfD","SPD",FALSE,"Suhl - Schmalkalden-Meiningen - Hildburghausen - Sonneberg","AfD","AfD",FALSE
+196,"CDU/CSU","CDU/CSU",FALSE,"Neuwied","CDU/CSU","CDU/CSU",FALSE
+197,"CDU/CSU","CDU/CSU",FALSE,"Ahrweiler","CDU/CSU","CDU/CSU",FALSE
+198,"CDU/CSU","CDU/CSU",FALSE,"Koblenz","CDU/CSU","CDU/CSU",FALSE
+199,"CDU/CSU","CDU/CSU",FALSE,"MoselRhein-Hunsrück /","CDU/CSU","CDU/CSU",FALSE
+200,"CDU/CSU","SPD",FALSE,"Kreuznach","CDU/CSU","CDU/CSU",FALSE
+201,"CDU/CSU","CDU/CSU",FALSE,"Bitburg","CDU/CSU","CDU/CSU",FALSE
+202,"CDU/CSU","SPD",FALSE,"Trier","CDU/CSU","CDU/CSU",TRUE
+203,"CDU/CSU","SPD",FALSE,"Montabaur","CDU/CSU","CDU/CSU",FALSE
+204,"CDU/CSU","SPD",FALSE,"Mainz","CDU/CSU","CDU/CSU",FALSE
+205,"CDU/CSU","CDU/CSU",FALSE,"Worms","CDU/CSU","CDU/CSU",FALSE
+206,"CDU/CSU","SPD",FALSE,"LudwigshafenFrankenthal /","CDU/CSU","CDU/CSU",FALSE
+207,"CDU/CSU","CDU/CSU",FALSE,"Neustadt - Speyer","CDU/CSU","CDU/CSU",FALSE
+208,"CDU/CSU","SPD",TRUE,"Kaiserslautern","SPD","CDU/CSU",TRUE
+209,"CDU/CSU","SPD",FALSE,"Pirmasens","CDU/CSU","CDU/CSU",FALSE
+210,"CDU/CSU","SPD",FALSE,"Südpfalz","CDU/CSU","CDU/CSU",FALSE
+211,"CDU/CSU","CDU/CSU",FALSE,"Altötting","CDU/CSU","CDU/CSU",FALSE
+212,"CDU/CSU","CDU/CSU",FALSE,"Erding - Ebersberg","CDU/CSU","CDU/CSU",FALSE
+213,"CDU/CSU","CDU/CSU",FALSE,"Freising","CDU/CSU","CDU/CSU",FALSE
+214,"CDU/CSU","CDU/CSU",FALSE,"Fürstenfeldbruck","CDU/CSU","CDU/CSU",FALSE
+215,"CDU/CSU","CDU/CSU",FALSE,"Ingolstadt","CDU/CSU","CDU/CSU",FALSE
+216,"CDU/CSU","CDU/CSU",FALSE,"München-Nord","CDU/CSU","CDU/CSU",FALSE
+217,"CDU/CSU","CDU/CSU",FALSE,"München-Ost","CDU/CSU","CDU/CSU",FALSE
+218,"CDU/CSU","Grüne",FALSE,"München-Süd","CDU/CSU","CDU/CSU",FALSE
+219,"CDU/CSU","CDU/CSU",FALSE,"München-WestMitte /","CDU/CSU","CDU/CSU",FALSE
+220,"CDU/CSU","CDU/CSU",FALSE,"München-Land","CDU/CSU","CDU/CSU",FALSE
+221,"CDU/CSU","CDU/CSU",FALSE,"Rosenheim","CDU/CSU","CDU/CSU",FALSE
+222,"CDU/CSU","CDU/CSU",FALSE,"Bad Tölz-Wolfratshausen - Miesbach","CDU/CSU","CDU/CSU",FALSE
+223,"CDU/CSU","CDU/CSU",FALSE,"Starnberg - Landsberg am Lech","CDU/CSU","CDU/CSU",FALSE
+224,"CDU/CSU","CDU/CSU",FALSE,"Traunstein","CDU/CSU","CDU/CSU",FALSE
+225,"CDU/CSU","CDU/CSU",FALSE,"Weilheim","CDU/CSU","CDU/CSU",FALSE
+226,"CDU/CSU","CDU/CSU",FALSE,"Deggendorf","CDU/CSU","CDU/CSU",FALSE
+227,"CDU/CSU","CDU/CSU",FALSE,"Landshut","CDU/CSU","CDU/CSU",FALSE
+228,"CDU/CSU","CDU/CSU",FALSE,"Passau","CDU/CSU","CDU/CSU",FALSE
+229,"CDU/CSU","CDU/CSU",FALSE,"Rottal-Inn","CDU/CSU","CDU/CSU",FALSE
+230,"CDU/CSU","CDU/CSU",FALSE,"Straubing","CDU/CSU","CDU/CSU",FALSE
+231,"CDU/CSU","CDU/CSU",FALSE,"Amberg","CDU/CSU","CDU/CSU",FALSE
+232,"CDU/CSU","CDU/CSU",FALSE,"Regensburg","CDU/CSU","CDU/CSU",FALSE
+233,"CDU/CSU","CDU/CSU",FALSE,"Schwandorf","CDU/CSU","CDU/CSU",FALSE
+234,"CDU/CSU","CDU/CSU",FALSE,"Weiden","CDU/CSU","CDU/CSU",FALSE
+235,"CDU/CSU","CDU/CSU",FALSE,"Bamberg","CDU/CSU","CDU/CSU",FALSE
+236,"CDU/CSU","CDU/CSU",FALSE,"Bayreuth","CDU/CSU","CDU/CSU",FALSE
+237,"CDU/CSU","CDU/CSU",FALSE,"Coburg","CDU/CSU","CDU/CSU",FALSE
+238,"CDU/CSU","CDU/CSU",FALSE,"Hof","CDU/CSU","CDU/CSU",FALSE
+239,"CDU/CSU","CDU/CSU",FALSE,"Kulmbach","CDU/CSU","CDU/CSU",FALSE
+240,"CDU/CSU","CDU/CSU",FALSE,"Ansbach","CDU/CSU","CDU/CSU",FALSE
+241,"CDU/CSU","CDU/CSU",FALSE,"Erlangen","CDU/CSU","CDU/CSU",FALSE
+242,"CDU/CSU","CDU/CSU",FALSE,"Fürth","CDU/CSU","CDU/CSU",FALSE
+243,"CDU/CSU","CDU/CSU",FALSE,"Nürnberg-Nord","CDU/CSU","CDU/CSU",FALSE
+244,"CDU/CSU","CDU/CSU",FALSE,"Nürnberg-Süd","CDU/CSU","CDU/CSU",FALSE
+245,"CDU/CSU","CDU/CSU",FALSE,"Roth","CDU/CSU","CDU/CSU",FALSE
+246,"CDU/CSU","CDU/CSU",FALSE,"Aschaffenburg","CDU/CSU","CDU/CSU",FALSE
+247,"CDU/CSU","CDU/CSU",FALSE,"Bad Kissingen","CDU/CSU","CDU/CSU",FALSE
+248,"CDU/CSU","CDU/CSU",FALSE,"Main-Spessart","CDU/CSU","CDU/CSU",FALSE
+249,"CDU/CSU","CDU/CSU",FALSE,"Schweinfurt","CDU/CSU","CDU/CSU",FALSE
+250,"CDU/CSU","CDU/CSU",FALSE,"Würzburg","CDU/CSU","CDU/CSU",FALSE
+251,"CDU/CSU","CDU/CSU",FALSE,"Augsburg-Stadt","CDU/CSU","CDU/CSU",FALSE
+252,"CDU/CSU","CDU/CSU",FALSE,"Augsburg-Land","CDU/CSU","CDU/CSU",FALSE
+253,"CDU/CSU","CDU/CSU",FALSE,"Donau-Ries","CDU/CSU","CDU/CSU",FALSE
+254,"CDU/CSU","CDU/CSU",FALSE,"Neu-Ulm","CDU/CSU","CDU/CSU",FALSE
+255,"CDU/CSU","CDU/CSU",FALSE,"Memmingen - Unterallgäu","CDU/CSU","CDU/CSU",FALSE
+256,"CDU/CSU","CDU/CSU",FALSE,"Oberallgäu","CDU/CSU","CDU/CSU",FALSE
+257,"CDU/CSU","CDU/CSU",FALSE,"Ostallgäu","CDU/CSU","CDU/CSU",FALSE
+258,"Grüne","Grüne",TRUE,"Stuttgart I","Grüne","CDU/CSU",FALSE
+259,"CDU/CSU","CDU/CSU",FALSE,"Stuttgart II","CDU/CSU","CDU/CSU",FALSE
+260,"CDU/CSU","CDU/CSU",FALSE,"Böblingen","CDU/CSU","CDU/CSU",FALSE
+261,"CDU/CSU","CDU/CSU",FALSE,"Esslingen","CDU/CSU","CDU/CSU",FALSE
+262,"CDU/CSU","CDU/CSU",FALSE,"Nürtingen","CDU/CSU","CDU/CSU",FALSE
+263,"CDU/CSU","CDU/CSU",FALSE,"Göppingen","CDU/CSU","CDU/CSU",FALSE
+264,"CDU/CSU","CDU/CSU",FALSE,"Waiblingen","CDU/CSU","CDU/CSU",FALSE
+265,"CDU/CSU","CDU/CSU",FALSE,"Ludwigsburg","CDU/CSU","CDU/CSU",FALSE
+266,"CDU/CSU","CDU/CSU",FALSE,"Neckar-Zaber","CDU/CSU","CDU/CSU",FALSE
+267,"CDU/CSU","CDU/CSU",FALSE,"Heilbronn","CDU/CSU","CDU/CSU",FALSE
+268,"CDU/CSU","CDU/CSU",FALSE,"Schwäbisch Hall - Hohenlohe","CDU/CSU","CDU/CSU",FALSE
+269,"CDU/CSU","CDU/CSU",FALSE,"Backnang - Schwäbisch Gmünd","CDU/CSU","CDU/CSU",FALSE
+270,"CDU/CSU","CDU/CSU",FALSE,"Aalen - Heidenheim","CDU/CSU","CDU/CSU",FALSE
+271,"CDU/CSU","Grüne",TRUE,"Karlsruhe-Stadt","Grüne","Grüne",TRUE
+272,"CDU/CSU","CDU/CSU",FALSE,"Karlsruhe-Land","CDU/CSU","CDU/CSU",FALSE
+273,"CDU/CSU","CDU/CSU",FALSE,"Rastatt","CDU/CSU","CDU/CSU",FALSE
+274,"CDU/CSU","Grüne",FALSE,"Heidelberg","CDU/CSU","CDU/CSU",FALSE
+275,"CDU/CSU","SPD",TRUE,"Mannheim","CDU/CSU","CDU/CSU",FALSE
+276,"CDU/CSU","CDU/CSU",FALSE,"Odenwald - Tauber","CDU/CSU","CDU/CSU",FALSE
+277,"CDU/CSU","CDU/CSU",FALSE,"Rhein-Neckar","CDU/CSU","CDU/CSU",FALSE
+278,"CDU/CSU","CDU/CSU",FALSE,"Bruchsal - Schwetzingen","CDU/CSU","CDU/CSU",FALSE
+279,"CDU/CSU","CDU/CSU",FALSE,"Pforzheim","CDU/CSU","CDU/CSU",FALSE
+280,"CDU/CSU","CDU/CSU",FALSE,"Calw","CDU/CSU","CDU/CSU",FALSE
+281,"Grüne","Grüne",TRUE,"Freiburg","Grüne","CDU/CSU",TRUE
+282,"CDU/CSU","CDU/CSU",FALSE,"Lörrach - Müllheim","CDU/CSU","CDU/CSU",FALSE
+283,"CDU/CSU","CDU/CSU",FALSE,"Emmendingen - Lahr","CDU/CSU","CDU/CSU",FALSE
+284,"CDU/CSU","CDU/CSU",FALSE,"Offenburg","CDU/CSU","CDU/CSU",FALSE
+285,"CDU/CSU","CDU/CSU",FALSE,"Rottweil - Tuttlingen","CDU/CSU","CDU/CSU",FALSE
+286,"CDU/CSU","CDU/CSU",FALSE,"Schwarzwald-Baar","CDU/CSU","CDU/CSU",FALSE
+287,"CDU/CSU","CDU/CSU",FALSE,"Konstanz","CDU/CSU","CDU/CSU",FALSE
+288,"CDU/CSU","CDU/CSU",FALSE,"Waldshut","CDU/CSU","CDU/CSU",FALSE
+289,"CDU/CSU","CDU/CSU",FALSE,"Reutlingen","CDU/CSU","CDU/CSU",FALSE
+290,"CDU/CSU","CDU/CSU",FALSE,"Tübingen","CDU/CSU","CDU/CSU",FALSE
+291,"CDU/CSU","CDU/CSU",FALSE,"Ulm","CDU/CSU","CDU/CSU",FALSE
+292,"CDU/CSU","CDU/CSU",FALSE,"Biberach","CDU/CSU","CDU/CSU",FALSE
+293,"CDU/CSU","CDU/CSU",FALSE,"Bodensee","CDU/CSU","CDU/CSU",FALSE
+294,"CDU/CSU","CDU/CSU",FALSE,"Ravensburg","CDU/CSU","CDU/CSU",FALSE
+295,"CDU/CSU","CDU/CSU",FALSE,"Zollernalb - Sigmaringen","CDU/CSU","CDU/CSU",FALSE
+296,"SPD","SPD",TRUE,"Saarbrücken","CDU/CSU","CDU/CSU",TRUE
+297,"CDU/CSU","SPD",FALSE,"Saarlouis","CDU/CSU","CDU/CSU",FALSE
+298,"CDU/CSU","SPD",FALSE,"St. Wendel","CDU/CSU","CDU/CSU",FALSE
+299,"SPD","SPD",TRUE,"Homburg","CDU/CSU","CDU/CSU",TRUE
