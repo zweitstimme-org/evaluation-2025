@@ -421,17 +421,17 @@ all_winners %>%
   summarise(
     "zweitstimme.org" = mean(our_correct),
     "Yougov" = mean(yougov_correct),
-    "Citizen Forecast" = mean(citizen_correct),
+    "Bürger:innen-Vorhersage" = mean(citizen_correct),
     "Wahlkreisprognose" = mean(wk_prognose_correct),
     "election.de" = mean(election_de_correct),
     "Gewinner 2021" = mean(winner_2021)
   ) %>% 
   # Make ggplot, showing the share for each forecast as one bar each
-  pivot_longer(cols = c("zweitstimme.org", "Yougov", "Citizen Forecast", "Wahlkreisprognose", "election.de", "Gewinner 2021"), names_to = "forecast", values_to = "share") %>%
+  pivot_longer(cols = c("zweitstimme.org", "Yougov", "Bürger:innen-Vorhersage", "Wahlkreisprognose", "election.de", "Gewinner 2021"), names_to = "forecast", values_to = "share") %>%
   ggplot(aes(x = fct_reorder(forecast, share), y = share)) +
   geom_col() +
     # Add percentages as text at end of bars
-  geom_text(aes(label = scales::percent(share, accuracy = 0.01), y = share - .05), color = "white") +
+  geom_text(aes(label = str_c(share*299, " von 299"), y = share - .05), color = "white") +
   labs(
     x = "",
     y = "Anteil korrekt vorhergesagter Wahlkreise",
@@ -455,6 +455,7 @@ all_winners %>%
         margin = margin(t = 5)
       )
     )
+  
 ggsave("output/forecast_comparison.png", width = 10, height = 6, dpi = 300)  
 
 
@@ -469,7 +470,7 @@ ggsave("output/forecast_comparison.png", width = 10, height = 6, dpi = 300)
 
 
 
-district_value <- district_results %>% filter(winner) %>% ungroup %>% 
+district_value <- district_results %>% ungroup %>% 
   select(wkr, party, true_value = Prozent)
 district_value
 
@@ -508,8 +509,31 @@ all_value %>%
   mutate(
     our_mae = abs(true_value - our_value),
     yougov_mae = abs(true_value - yougov_value)
-  ) %>% 
+  )  %>%
   summarise(
-    our_mae = mean(our_mae),
-    yougov_mae = mean(yougov_mae)
+    our_mae = mean(our_mae, na.rm = T),
+    yougov_mae = mean(yougov_mae, na.rm = T)
   )
+
+
+
+
+
+
+# Load and prepare forecast data
+pred_vacant <- fromJSON(file = "data/pred_vacant.json") %>% 
+  bind_rows() 
+
+pred_vacant %>% head
+
+
+(pred_vacant %>% filter(wkr %in% vacant_districts))$abandon_p %>% mean
+(pred_vacant %>% filter(!(wkr %in% vacant_districts)))$abandon_p %>% mean
+
+
+pred_vacant <- filter(pred_vacant, abandon_p > .5)
+vacant_districts <- c(1, 14, 54, 58, 71, 151, 169, 181, 182, 183, 185, 202, 204, 206, 218, 243, 251, 259, 274, 275, 277, 282, 290)
+
+
+pred_vacant$true_vacant <- pred_vacant$wkr %in% vacant_districts
+mean(pred_vacant$true_vacant)
