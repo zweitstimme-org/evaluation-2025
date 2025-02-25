@@ -25,8 +25,8 @@ forecast <- bind_rows(
 
 # Load actual election results
 election_results <- data.frame(
-  party = c("cdu", "spd", "gru", "fdp", "lin", "afd", "fw", "bsw", "oth"),
-  result = c(28.5, 16.4, 11.6, 4.3, 8.8, 20.8, 1.5, 4.97, 3.0)
+  party = c("cdu", "spd", "gru", "fdp", "lin", "afd", "bsw", "oth"),
+  result = c(28.5, 16.4, 11.6, 4.3, 8.8, 20.8, 4.97, 4.5)
 )
 
 ###########################################
@@ -203,7 +203,7 @@ es_compare <- merge(district_forecast %>% filter(winner) %>% select(wkr, wkr_nam
 es_compare <- merge(es_compare, select(district_forecast, c(wkr, party, probability)), by.x = c("wkr", "party.y"), by.y = c("wkr", "party"))
 
 
-es_compare %>% select(Wahlkreis = wkr, Name = wkr_name, Vorhergesagt = party.x, Gewonnen = party.y, "Wahrscheinlichkeit für Ereignis" = probability) # %>% View
+es_compare %>% select(Wahlkreis = wkr, Name = wkr_name, Vorhergesagt = party.x, Gewonnen = party.y, "Wahrscheinlichkeit für Ereignis" = probability) %>%  # %>% View
 # Make html table
 kable("html", escape = F, align = "c") 
 
@@ -469,11 +469,20 @@ ggsave("output/forecast_comparison.png", width = 10, height = 6, dpi = 300)
 
 
 
-
 district_value <- district_results %>% ungroup %>% 
   select(wkr, party, true_value = Prozent)
 district_value
 
+district_value <- district_value %>% filter(party %in% c("cdu", "spd", "gru", "lin", "fdp", "afd", "bsw"))
+district_value <- filter(district_value, !is.na(true_value))
+district_value$party %>% table
+
+
+district_value %>% group_by(wkr) %>% 
+  summarise(true_value = 100 - sum(true_value, na.rm = TRUE)) %>% 
+  mutate(party = "oth") %>% bind_rows(district_value) %>% arrange(wkr) -> district_value
+
+saveRDS(district_value, "data/district_value.rds")
 
 our_value <- district_forecast %>% select(wkr, wkr_name, party, our_value = value) #  winner, value, probability
 our_value
